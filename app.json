@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "cloneInsta",
+    "name": "clone_Instagram",
     "slug": "cloneInsta",
     "platforms": [
       "ios",
@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Praticando Rect Native, fazendo o feed do instagram"
   }
 }
